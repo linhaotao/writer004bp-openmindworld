@@ -13,8 +13,8 @@
 - 体制内从事人事管理的跑步教练，不安分的生命程序员，正在用openmind语言重写人生底层代码。
 
 **刘波**
-- GitHub Username：
-- 简介
+- GitHub Username：purplezero123
+- 简介：感性的文科女，以笔为杖，梦想为马，走在努力寻找理性的路上。
 
 **陈亚平**
 - GitHub Username：mavis0825
